@@ -1,0 +1,249 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\usepackage{graphicx}
+\addbibresource{bibliography.bib}
+\begin{document}
+\header{Francisco Rafael }{Arce García}
+       {IT Admin \& Junior Developer}
+% In the aside, each new line forces a line break
+\begin{aside}
+    \includegraphics[scale=0.08]{yo}
+  \section{About}
+    Tepotzotl\'{a}n
+    Estado de M\'{e}xico,
+    M\'{e}xico
+    ~
+    \href{mailto:fragmnt02@gmail.com}{fragmnt02@gmail.com}
+    \href{https://www.linkedin.com/in/franciscorafaelarcegarcia}{LinkedIn (Click Here)}
+    \href{https://github.com/fragmnt02}{Github: fragmnt02}
+  \section{Languages}
+    English (Professional)
+    Spanish (Native)
+  \section{Programming}
+    Java
+    Javascript
+    (node.js, express.js)
+    SQL
+    (SQL Server, MySQL)
+    HTML5 \& CSS3
+    LaTeX
+  \section{Digital Marketing}
+    Google Adwords
+    Google Analytics
+    Facebook Ads
+    Twitter Ads
+  \section{Other Tools}
+    Microsoft Office
+    Adobe Photoshop
+    Adobe After Effects
+    Sony Vegas Pro
+    Cisco CLI
+\end{aside}
+\section{Interests}
+A graduate of bachelor’s degree in telematics looking an opportunity to get enrolled in the
+information technologies and digital marketing industry.
+\section{Education}
+\begin{entrylist}
+  \entry
+    {2013-2017}
+    {Bachelor’s Degree in Telematics}
+    {Universidad Ju\'{a}rez Aut\'{o}noma de Tabasco (UJAT).}
+    {Grade: 9.7}
+  \entry
+    {2016-2017}
+    {Exchange Student}
+    {Universidad de Salamanca, Spain.}
+    {Grade: 8.5}
+\end{entrylist}
+\section{Experience}
+\begin{entrylist}
+  \entry
+    {05–08 2016}
+    {Research Assistant}
+    {Latin American Summer Research Program}
+    {\emph{University of Arizona - Eller College of Management, Arizona, U. S. A.}}
+  \entry
+    {02–07 2017}
+    {IT Administrator}
+    {Intership}
+    {\emph{“Rosendo Taracena Padr\'{o}n” Secondary School.}}
+\end{entrylist}
+\section{Volunteering}
+\begin{entrylist}
+  \entry
+    {2014}
+    {Students Mentor}
+    {Universidad Ju\'{a}rez Aut\'{o}noma de Tabasco}
+    {I advised fellow students in processes carried out in the university, as well as I supported them in academic advisory services, solving some doubts about their classes.}
+  \entry
+    {2015}
+    {Non-Profit Communities Organizer and Partaker}
+    {DevCunduac\'{a}n}
+    {DevCunduac\'{a}n is a set of conferences and workshops given to the general public where entrepreneurship and the use of new technologies are promoted.}
+\end{entrylist}
+\section{Certifications}
+\begin{entrylist}
+    \entry{2016}
+          {TOEFL IBT}
+          {ETS}
+          {Expiration Date: February, 2018.}
+    \entry{2018}
+          {Adwords Fundamentals}
+          {Google}
+          {Expiration Date: February, 2019.}
+    \entry{2018}
+          {Adwords Mobile}
+          {Google}
+          {Expiration Date: February, 2019.}
+    \entry{2018}
+          {Marketing Leadership}
+          {Twitter}
+          {No Expiration Date}
+\end{entrylist}
+\newline
+\newline
+\newline
+\newline
+\newline
+\section{Copyright}
+\begin{entrylist}
+    \entry{2017}
+          {Software:“Learning Styles - UJAT”}
+          {UJAT}
+          {Web application developed to get the learning style of users based on CHAEA model.}
+\end{entrylist}
+\section{Publications}
+\begin{entrylist}
+    \entry{2016}
+          {Article: Metaheuristics in Mobile Devices. Case: Maps Routes}
+          {UJAT}
+          {“Collection of Advances in Information Technologies”, Volume II. }
+    \entry{2016}
+          {Article: Metaheuristics in Mobile Devices. Case: Maps Routes}
+          {UJAT}
+          {“Scientific Perspective from UJAT”, Volume V.}
+    \entry{2017}
+          {Thesis: Maps Routes for Mobile Devices Through Metaheuristics}
+          {UJAT}
+          {Thesis to obtain the grade of bachelor degree in telematics at Informatic and Systems Academic Division (DAIS) in Universidad Juárez Autónoma de Tabasco.}    
+\end{entrylist}
+\section{Honors and Awards}
+\begin{entrylist}
+    \entry{2013}
+          {Second place in the “Knowledge Rally”}
+          {DAIS}
+          {Second place in the “Knowledge Rally” held within the framework of the 10 National Convention and 7 International Convention of Informatics and Systems.}
+    \entry{2014}
+          {Student of High Academic Achievement in the time between August, 2013 and February, 2014.}
+          {DAIS}
+          {}
+    \entry{2014}
+          {Student of High Academic Achievement in the time between February and August of 2014.}
+          {DAIS}
+          {}
+    \entry{2015}
+          {Student of High Academic Achievement in the time between August, 2014 and January, 2015.}
+          {DAIS}
+          {}
+    \entry{2015}
+          {Student of High Academic Achievement in the time between February and August of 2015.}
+          {DAIS}
+          {}
+    \entry{2017}
+          {Highest average of the generation 2012 - 2017.}
+          {UJAT}
+          {Recognition for having obtained 9.79, the highest average of the generation 2012 - 2017.}
+    \entry{2017}
+          {"Manuel Sánchez Mármol" Medal}
+          {UJAT}
+          {Medal for students with high academic performance.}
+\end{entrylist}
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\section{Courses}
+\begin{entrylist}
+    \entry{2013}
+          {IBM Technological Trends Workshop.}
+          {10 National Convention and 7 International Convention of Informatics and Systems}
+          {}
+    \entry{2013}
+          {Mobile Applications with Web Technology Seminar.}
+          {10 National Convention and 7 International Convention of Informatics and Systems}
+          {}
+    \entry{2014}
+          {Computer Assembly and its Maintenance Course.}
+          {Universidad Ju\'{a}rez Aut\'{o}noma de Tabasco}
+          {}
+    \entry{2015}
+          {Math Applications using GeoGebra Software Workshop.}
+          {Mathematics Applied to Information Technologies Symposium}
+          {}
+    \entry{2015}
+          {Training of Mentors Course.}
+          {Students Mentor Program at UJAT}
+          {}
+    \entry{2015}
+          {Django Workshop.}
+          {12 National Convention and 9 International Convention of Informatics and Systems}
+          {}
+    \entry{2016}
+          {University of Arizona Workshops:}
+          {Latin American Summer Research Program}
+          {Abstract Workshop, Scientific Poster Workshop, Purpose/Personal Statement Workshop y Oral Presentation Workshop}
+    \entry{2016}
+          {Digital Marketing Fundamentals Course.}
+          {Google}
+          {}
+    \entry{2018}
+          {Personal Brand Course.}
+          {Platzi}
+          {}
+\end{entrylist}
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+For any question, comment or supporting document do not hesitate to contact me.\\
+Last Update: \today
+%%% This piece of code has been commented by Karol Kozioł due to biblatex errors. 
+% 
+%\printbibsection{article}{article in peer-reviewed journal}
+%\begin{refsection}
+%  \nocite{*}
+%  \printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
+%\end{refsection}
+%\begin{refsection}
+%  \nocite{*}
+%  \printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
+%\end{refsection}
+%\printbibsection{misc}{other publications}
+%\printbibsection{report}{research reports}
+
+\end{document}
